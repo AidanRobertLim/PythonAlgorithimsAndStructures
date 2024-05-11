@@ -1,7 +1,7 @@
 # Aidan Lim
 # Algorithim 3: Recursive Sort and Iterative Sort
 
-from Algorithim2 import*
+from SelectInsertSort import*
 
 def iterative_search(list, target, size):
     # check each item

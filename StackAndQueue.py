@@ -2,7 +2,7 @@
 # Data Structure 2: Stacks and Queues
 
 # node functions
-from Structure1 import*
+from LinkedList import*
 
 # stack functions
 def emptyStack(stack):
